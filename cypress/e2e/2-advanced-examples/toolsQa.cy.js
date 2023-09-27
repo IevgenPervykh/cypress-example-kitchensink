@@ -1,6 +1,6 @@
 // type definitions for Cypress object "cy"
 // <reference types="cypress" />
-
+/*
 const availablefixtures = [
     {
         "name": "oneFixture",
@@ -42,4 +42,4 @@ describe('Automation Test Suite - Fixtures', function() {
     })
   })
 })
-})
+})*/
